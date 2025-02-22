@@ -1,0 +1,20 @@
+{
+    "collectionDetails": {
+        "name": "Fakkar_01",
+        "symbol": "FC_01",
+        "imageFile": "collection_logo.png",
+        "contentType": "image/png",
+        "description": "Fakkar Games of Life buddy... Just hop in",
+        "address": "4UpctWXb7V5MY6Boid4sDvPCASBTLJ1DwnqpPtxwEthW"
+    },
+
+    "nftDetails": {
+        "collection": "4UpctWXb7V5MY6Boid4sDvPCASBTLJ1DwnqpPtxwEthW",
+        "name": "Fakkar_Cozy",
+        "symbol": "FC_CoZ",
+        "imageFile": "fakkar-nft.png",
+        "contentType": "image/png",
+        "description": "Fakkar playing in cozy way mate...",
+        "address": "Zi99WJUCpPCSiZdZRHHKeJjiB93tDauQrAHWprKBDWo"
+    }
+}
